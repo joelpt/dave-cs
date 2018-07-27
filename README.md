@@ -44,17 +44,17 @@ This is a living document. Future planned blocks can and probably will change as
 
 ## 0.0
 
-	- Read https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
-	- Watch https://www.youtube.com/watch?v=mvK0UzFNw1Q
-	- Watch https://www.youtube.com/watch?v=kjBOesZCoqc&index=2&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&t=0s
-	- Read http://carlcheo.com/compsci
-	- Write 1-2 pages detailing any takeaways or other things you found interesting from the above text/videos.
-	- Write 1-2 pages describing a big challenge you have faced in life and how you overcame it.
-	- Solve for x in the following algebra equations:
-		- 7x + 3 = 17
-		- 8x + 16a = 8
-		- 0 = 9 - x
-		- a + b + c + x = y
-		- x^2 = 144
-		- 3x = 99y
+- Read https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
+- Watch https://www.youtube.com/watch?v=mvK0UzFNw1Q
+- Watch https://www.youtube.com/watch?v=kjBOesZCoqc&index=2&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&t=0s
+- Read http://carlcheo.com/compsci
+- Write 1-2 pages detailing any takeaways or other things you found interesting from the above text/videos.
+- Write 1-2 pages describing a big challenge you have faced in life and how you overcame it.
+- Solve for x in the following algebra equations:
+	- 7x + 3 = 17
+	- 8x + 16a = 8
+	- 0 = 9 - x
+	- a + b + c + x = y
+	- x^2 = 144
+	- 3x = 99y
 
