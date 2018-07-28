@@ -3,7 +3,7 @@ CS Course for Dave
 
 # Overview
 
-This is a CS course being customized for Dave. The current overarching plan is for Dave to attain job-readiness for an entry level professional software developer role in 3 years or less. The target workload is 30 hrs/week.
+This is a Computer Science/Software Engineering course for Dave. The current overarching plan is for Dave to attain real job-readiness for an entry level professional web developer role in 3 years. The target workload is 30 hrs/week.
 
 High level overview of what will be covered:
 
@@ -31,6 +31,7 @@ High level overview of what will be covered:
 	* Strategies for avoiding rabbit holes, software rot, overengineering, etc.
 * Use of key developer tools: command line, Git, IDEs, text editors, debugging tools, JIRA, etc.
 * Completion of 2-3 major, portfolio-worthy projects
+* Coding interview prep
 
 The overall goal is to develop enough expertise in the area of web development to get an entry-level job doing front-end or full-stack web development. This web-specific expertise will be complemented by a working knowledge of multiple programming languages and a powerful toolbelt of knowledge and skills, enabling the further understanding and development into any further areas of interest for coding.
 
