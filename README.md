@@ -65,6 +65,10 @@ The plan is structured in blocks. Each block consists of one or more "tracks" of
 
 # Plan
 
+## Anytime goodies
+
+- https://codecombat.com/play
+
 ## 0.0
 
 - TAKE NOTES FROM NOW ON.
