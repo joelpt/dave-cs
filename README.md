@@ -56,7 +56,7 @@ Accordingly, for ALL parts of this training, you can use Google and revisit cour
 
 Plagiarism is not allowed for writing-specific tasks, but you can and should include references (URLs) to sources and quote freely.
 
-For coding tasks, it's completely acceptable to borrow, import, and steal other people's code as you see fit -- but keep the spirit of the training in mind. If the task at hand is to implement the quicksort algorithm, it does you no good to copy and paste somebody else's implementation. On the other hand, if the task is to create a mobile-responsive website, it's completely reasonable to use a starter template you found on the Internet to get things off the ground.
+For coding tasks, it's completely acceptable to borrow, import, and steal other people's code as you see fit -- but keep the spirit of the training in mind. If the task at hand is to implement the quicksort algorithm, it does you no good to copy and paste somebody else's implementation. On the other hand, if your goal is to display a sorted list of football player names on a webpage, don't waste time writing your own sorting algorithm: find something that exists to solve that problem and move on to more important things.
 
 # Blocks
 
