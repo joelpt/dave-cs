@@ -43,7 +43,9 @@ All homework listed in the plan below, and in each of the courses, must be compl
 
 ## Take notes
 
-Acquire a pen and a notebook. Use these to take notes about text/video course materials as you go through them. This not only will help reinforce what you learn, but is intended to develop the habit of taking notes: you can vary this later (e.g. take notes on a computer, voice memos, ...) but for now, begin taking notes **on paper** as a matter of course. This is a core skill for a professional software developer.
+Acquire a pen and a paper notebook. Use these to take notes about text/video course materials as you go through them. This not only will help reinforce what you learn, but is intended to develop the habit of taking notes: you can vary this later (e.g. take notes on a computer, voice memos, ...) but for now, begin taking notes **on paper** as a matter of course. This is a core skill for a professional software developer.
+
+https://memegenerator.net/img/instances/65839500/pen-and-paper.jpg
 
 ## Use Google
 
