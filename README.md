@@ -102,7 +102,7 @@ Track 1:
 - Complete weeks 1-5 of https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
 	- After completing each week, write a 1-2 paragraph summary of what was covered/learned that week.
 	- After completing all 5 weeks, compile the summaries into a single document nicely formatted with Markdown.
-	- Create a new GitHub repository to store all the writings you create in this course and begin committing new writings there as you complete them. Use a coherent and consistent folder and file naming structure that will work going forward.
+	- Create a new GitHub repository to store all the writings you create in this course and begin committing new writings there as you complete them. Use a coherent and consistent folder and file naming structure that will work going forward. Also give it a nice Markdown formatted README file.
 
 Track 2:
 
