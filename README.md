@@ -49,7 +49,7 @@ Acquire a pen and a paper notebook. Use these to take notes about text/video cou
 
 https://memegenerator.net/img/instances/65839500/pen-and-paper.jpg
 
-## Use Google
+## Use Google-fu
 
 A very important skill in the developer's toolbelt is being able to find answers on their own and self-educate themselves to solve unknowns.
 
@@ -103,14 +103,21 @@ The plan is structured in blocks. Each block consists of one or more "tracks" of
 
 Track 1:
 
-- Complete weeks 1-5 of https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
-	- After completing each week, write a 1-2 paragraph summary of what was covered/learned that week.
+- Complete weeks 0-5 of https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
+	- After completing each week, write a 1+ paragraph summary of what was covered/learned that week.
 	- After completing all 5 weeks, compile the summaries into a single document nicely formatted with Markdown.
 	- Create a new GitHub repository to store all the writings you create in this course and begin committing new writings there as you complete them. Use a coherent and consistent folder and file naming structure that will work going forward. Also give it a nice Markdown formatted README file.
 
 Track 2:
 
 - Complete watching https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-	- Use Markdown to write up a 1+ paragraph summary of each video and compile these into a single document nicely formatted with Markdown.
+	- Write up a 1+ paragraph summary of each video and compile these into a single document nicely formatted with Markdown.
+- Complete https://www.edx.org/course/linear-algebra-foundations-to-frontiers#
+    - After completing each week, write a 1+ paragraph summary of what was covered/learned that week. 
+        - In each summary, **include at least one image** that supports the summary. This could include graphs found on the Internet or drawn by you, relevant memes, etc. as long as it fits with the narrative of your summary.
+        - Compile the summaries into a nice formatted Markdown document summarizing the course.
+    
+
+
 
 
